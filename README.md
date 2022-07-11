@@ -1,4 +1,4 @@
-# CS-255-R1992-Ststem-Analysis-and-Design
+# CS-255-R1992-System-Analysis-and-Design
 Model 8 Journal
 #Briefly summarize the DriverPass project. Who was the client? What type of System did they want you to design?
 
